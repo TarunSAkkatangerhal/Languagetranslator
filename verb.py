@@ -1,5 +1,5 @@
 import streamlit as st
-from googletrans import Translator, LANGUAGES
+from googletrans import Translator
 import speech_recognition as sr
 
 # Initialize translator
